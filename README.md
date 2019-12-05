@@ -1,5 +1,7 @@
 # cra-typescript-storybook-lerna
-Minimalistic React in TypeScript with Storybook, Snapshot testing and Lerna
+
+Minimalistic React app in TypeScript based on UI lib with Storybook and Snapshot testing.
+And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
 
