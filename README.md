@@ -23,6 +23,12 @@ lerna bootstrap
 TBD...
 ```
 
+## Running application
+
+```sh
+TBD...
+```
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
