@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Starter for Monorepos: Lerna, TypeScript, CRA and Storybook",
   "main": "index.js",
-  "repository": "https://github.com/shnydercom/lerna-typescript-cra-uilib-starter.git",
-  "author": "shnyder.com",
+  "repository": "https://github.com/softspider/cra-typescript-uilib-with-storybook-in-lerna",
+  "author": "Alexander Lapygin",
   "license": "MIT",
   "private": true,
   "devDependencies": {
