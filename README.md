@@ -1,4 +1,4 @@
-# cra-typescript-storybook-lerna
+# cra-typescript-uilib-with-storybook-in-lerna
 
 Minimalistic React app in TypeScript based on UI lib with Storybook and Snapshot testing.
 And all of this in Lerna monorepo.
