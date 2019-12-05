@@ -9,7 +9,7 @@ Minimalistic React in TypeScript with Storybook, Snapshot testing and Lerna
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*Lerna*]https://lerna.js.org/)
+* [*Lerna*](https://lerna.js.org/)
 
 ## Installation
 
