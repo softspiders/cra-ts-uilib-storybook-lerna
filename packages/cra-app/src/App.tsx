@@ -1,13 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {MyNewComponent} from '@my-org/my-monorepo-ui-lib';
+import {MyNewComponent} from '@my-org/ui-lib';
+
+//import {MyNewComponent} from '../../ui-lib';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        {/* eslint-disable-next-line react/jsx-no-undef */}
         <MyNewComponent text="this is our library component"/>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.

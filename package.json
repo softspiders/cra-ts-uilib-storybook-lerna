@@ -1,5 +1,5 @@
 {
-  "name": "lerna-typescript-cra-uilib-starter",
+  "name": "cra-typescript-uilib-storybook-in-lerna-starter",
   "version": "1.0.0",
   "description": "Starter for Monorepos: Lerna, TypeScript, CRA and Storybook",
   "main": "index.js",
@@ -13,6 +13,8 @@
   "scripts": {
     "story": "lerna run story --stream",
     "prestart": "lerna run libbuild --stream",
-    "start": "lerna run start --stream"
+    "start": "lerna run start --stream",
+    "clean": "lerna clean",
+    "bootstrap": "lerna bootstrap"
   }
 }

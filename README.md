@@ -1,6 +1,6 @@
 # cra-typescript-uilib-with-storybook-in-lerna
 
-Minimalistic React app in TypeScript based on UI lib with Storybook and Snapshot testing.
+Minimalistic React app in TypeScript based on UI lib with Storybook.
 And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
@@ -37,7 +37,7 @@ TBD...
 
 ## Inspired by
 
-[Monorepos: Lerna, TypeScript, CRA and Storybook combined](https://dev.to/shnydercom/monorepos-lerna-typescript-cra-and-storybook-combined-4hli)
+[shnyder: Monorepos: Lerna, TypeScript, CRA and Storybook combined](https://dev.to/shnydercom/monorepos-lerna-typescript-cra-and-storybook-combined-4hli)
 
 ### License
 
