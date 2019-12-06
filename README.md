@@ -23,13 +23,13 @@ lerna bootstrap
 ## Running Storybook
 
 ```sh
-TBD...
+lerna run story
 ```
 
 ## Running application
 
 ```sh
-TBD...
+lerna run start
 ```
 
 ## Authors
