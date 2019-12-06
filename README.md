@@ -11,7 +11,7 @@ And all of this in Lerna monorepo.
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [TypeScript](https://www.typescriptlang.org/)
+* [*TypeScript*](https://www.typescriptlang.org/)
 * [*Lerna*](https://lerna.js.org/)
 
 ## Installation
