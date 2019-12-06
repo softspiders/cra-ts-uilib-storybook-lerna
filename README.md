@@ -5,7 +5,7 @@ And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
 
-TBD
+[typescript](https://github.com/softspider/typescript)
 
 ## Requirements
 
