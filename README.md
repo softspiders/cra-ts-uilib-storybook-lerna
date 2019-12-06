@@ -5,7 +5,7 @@ And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
 
-[cra-storybook-typescript](https://github.com/softspider/cra-storybook-typescript)
+TBD
 
 ## Requirements
 
