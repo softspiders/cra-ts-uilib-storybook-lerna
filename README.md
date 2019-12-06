@@ -33,7 +33,8 @@ TBD...
 
 ## Authors
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[shnyder](https://dev.to/shnydercom) - original author
+[Alexander Lapygin](https://github.com/AlexanderLapygin) - adaptation to Soft Spiders
 
 ## Inspired by
 
