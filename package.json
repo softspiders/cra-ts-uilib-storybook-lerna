@@ -11,10 +11,10 @@
     "lerna": "^3.18.3"
   },
   "scripts": {
-    "story": "lerna run story --stream",
-    "prestart": "lerna run libbuild --stream",
-    "start": "lerna run start --stream",
     "clean": "lerna clean",
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "prestart": "lerna run libbuild --stream",
+    "story": "lerna run story --stream",
+    "start": "lerna run start --stream"
   }
 }
