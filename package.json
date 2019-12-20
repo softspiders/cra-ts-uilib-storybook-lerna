@@ -15,6 +15,7 @@
     "bootstrap": "lerna bootstrap",
     "prestart": "lerna run libbuild --stream",
     "story": "lerna run story --stream",
-    "start": "lerna run start --stream"
+    "start": "lerna run start --stream",
+    "build-app": "cd ./packages/cra-app && npm run build"
   }
 }
