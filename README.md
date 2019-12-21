@@ -26,7 +26,7 @@ npm run bootstrap
 npm run story
 ```
 
-## Running application
+## Running application in dev mode
 
 ```sh
 npm run start
