@@ -17,7 +17,7 @@ And all of this in Lerna monorepo.
 ## Installation
 
 ```sh
-npm run bootstrap
+npm run install
 ```
 
 ## Running Storybook

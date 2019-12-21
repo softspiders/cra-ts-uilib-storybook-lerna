@@ -12,7 +12,7 @@
   },
   "scripts": {
     "clean": "lerna clean",
-    "bootstrap": "lerna bootstrap",
+    "install": "lerna bootstrap",
     "prestart": "lerna run libbuild --stream",
     "story": "lerna run story --stream",
     "start": "lerna run start --stream",
