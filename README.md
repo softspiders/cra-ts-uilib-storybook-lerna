@@ -17,19 +17,25 @@ And all of this in Lerna monorepo.
 ## Installation
 
 ```sh
-lerna bootstrap
+npm run bootstrap
 ```
 
 ## Running Storybook
 
 ```sh
-lerna run story
+npm run story
 ```
 
 ## Running application
 
 ```sh
-lerna run start
+npm run start
+```
+
+## Build application
+
+```sh
+npm run build-app
 ```
 
 ## Authors
