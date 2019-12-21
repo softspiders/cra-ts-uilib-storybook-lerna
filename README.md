@@ -35,7 +35,7 @@ npm run start
 ## Build application
 
 ```sh
-npm run build-app
+npm run build:app
 ```
 
 ## Authors
