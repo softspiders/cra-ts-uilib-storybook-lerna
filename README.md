@@ -7,9 +7,11 @@ And all of this in Lerna monorepo.
 
 - create-react-app
 - lerna
+- lib
 - react
 - storybook
 - typescript
+- ui
 
 ## Direct feature ancestors
 
