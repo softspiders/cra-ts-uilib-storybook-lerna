@@ -13,6 +13,10 @@ And all of this in Lerna monorepo.
 [cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
 
 
+## Direct code descendants
+
+[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
