@@ -7,6 +7,12 @@ And all of this in Lerna monorepo.
 
 [typescript](https://github.com/softspider/typescript)
 
+
+## Direct feature descendants
+
+[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+
+
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
