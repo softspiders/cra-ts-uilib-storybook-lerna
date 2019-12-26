@@ -11,11 +11,11 @@
     "lerna": "^3.18.3"
   },
   "scripts": {
-    "install": "lerna bootstrap",
+    "bootstrap": "lerna bootstrap",
     "story": "lerna run story --stream",
     "start": "lerna run start --stream",
     "build:lib": "lerna run libbuild --stream",
-    "build:app": "npm run install && npm run build:lib && cd ./packages/cra-app && npm run build",
+    "build:app": "npm run bootstrap && npm run build:lib && cd ./packages/cra-app && npm run build",
     "clean": "lerna clean"
   }
 }
