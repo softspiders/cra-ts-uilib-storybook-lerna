@@ -16,7 +16,7 @@ And all of this in Lerna monorepo.
 ## Direct feature ancestors
 
 - [typescript](https://github.com/softspider/typescript)
-- [Lerna HelloWorld](https://github.com/softspider/lerna-hw)
+- [lerna](https://github.com/softspider/lerna-hw)
 
 
 ## Direct feature descendants
