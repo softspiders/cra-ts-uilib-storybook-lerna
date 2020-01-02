@@ -1,6 +1,6 @@
 # cra-ts-uilib-storybook-lerna
 
-Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna
+Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Feature tags
 
