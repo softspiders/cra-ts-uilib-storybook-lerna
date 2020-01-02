@@ -1,7 +1,6 @@
 # cra-ts-uilib-storybook-lerna
 
-Minimalistic React app in TypeScript based on UI lib with Storybook.
-And all of this in Lerna monorepo.
+Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Feature tags
 
@@ -16,7 +15,7 @@ And all of this in Lerna monorepo.
 ## Direct feature ancestors
 
 - [typescript](https://github.com/softspider/typescript)
-- [lerna](https://github.com/softspider/lerna-hw)
+- [lerna](https://github.com/softspider/lerna)
 
 
 ## Direct feature descendants
