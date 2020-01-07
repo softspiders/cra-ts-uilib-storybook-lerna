@@ -9,6 +9,7 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 - lib
 - react
 - storybook
+- template
 - typescript
 - ui
 
