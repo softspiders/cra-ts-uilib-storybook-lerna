@@ -1,6 +1,10 @@
+SOFTSPIDERS
+
 # cra-ts-uilib-storybook-lerna
 
 Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
+
+---
 
 ## Feature tags
 
@@ -13,20 +17,19 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 - typescript
 - ui
 
-## Direct feature ancestors
+---
+
+## Direct ancestors
 
 - [typescript](https://github.com/softspider/typescript)
 - [lerna](https://github.com/softspider/lerna)
 
 
-## Direct feature descendants
+## Direct descendants
 
-[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
 
-
-## Direct code descendants
-
-[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+---
 
 ## Requirements
 
@@ -35,11 +38,15 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 * [*TypeScript*](https://www.typescriptlang.org/)
 * [*Lerna*](https://lerna.js.org/)
 
+---
+
 ## Installation
 
 ```sh
 npm run bootstrap
 ```
+
+---
 
 ## Running Storybook
 
@@ -59,14 +66,20 @@ npm run start
 npm run build:app
 ```
 
+---
+
 ## Authors
 
 [shnyder](https://dev.to/shnydercom) - original author
 [Alexander Lapygin](https://github.com/AlexanderLapygin) - adaptation to Soft Spiders
 
+---
+
 ## Inspired by
 
 [shnyder: Monorepos: Lerna, TypeScript, CRA and Storybook combined](https://dev.to/shnydercom/monorepos-lerna-typescript-cra-and-storybook-combined-4hli)
+
+---
 
 ### License
 
