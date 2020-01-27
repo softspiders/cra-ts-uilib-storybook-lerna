@@ -21,13 +21,13 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Direct ancestors
 
-- [typescript](https://github.com/softspider/typescript)
-- [lerna](https://github.com/softspider/lerna)
+- [typescript](https://github.com/softspiders/typescript)
+- [lerna](https://github.com/softspiders/lerna)
 
 
 ## Direct descendants
 
-[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
+[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
 
 ---
 
