@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # cra-ts-uilib-storybook-lerna
 
@@ -12,6 +12,7 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 - lerna
 - lib
 - react
+- starter
 - storybook
 - template
 - typescript
