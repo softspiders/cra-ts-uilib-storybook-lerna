@@ -10,13 +10,12 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 - create-react-app
 - lerna
-- lib
 - react
 - starter
 - storybook
 - template
 - typescript
-- ui
+- uilib
 
 ---
 
@@ -28,8 +27,8 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Direct descendants
 
-[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
-
+- [***+mvn***, ***war***: cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
+- [***+ie11***: cra-ts-uilib-storybook-lerna-ie11](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11) - also by code
 ---
 
 ## Requirements
