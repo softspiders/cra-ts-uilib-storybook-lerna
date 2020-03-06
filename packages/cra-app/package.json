@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@my-org/ui-lib": "0.1.0",
-    "@softspiders/uilib": "0.1.0",
     "react": "^16.11.0",
     "react-app-polyfill": "^1.0.4",
     "react-dom": "^16.11.0",
