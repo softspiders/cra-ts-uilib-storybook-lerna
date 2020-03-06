@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@my-org/ui-lib": "*",
+    "@my-org/ui-lib": "0.1.0",
     "react": "^16.11.0",
+    "react-app-polyfill": "^1.0.4",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
@@ -21,12 +22,14 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all"
+      "not op_mini all",
+      "IE 11"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 safari version",
+      "IE 11"
     ]
   },
   "devDependencies": {

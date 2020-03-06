@@ -27,8 +27,8 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Direct descendants
 
-- [***+mvn***, ***war***: cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
-- [***+ie11***: cra-ts-uilib-storybook-lerna-ie11](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11) - also by code
+- [**+mvn, war**](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
+- [**+ie11**](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-ie11) - also by code
 ---
 
 ## Requirements
