@@ -36,7 +36,6 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*Create React App*](https://facebook.github.io/create-react-app/)
 * [*TypeScript*](https://www.typescriptlang.org/)
-* [*rimraf*](https://www.npmjs.com/package/rimraf)
 
 ---
 
